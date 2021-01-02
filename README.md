@@ -2,7 +2,7 @@
 
 In 2014, I built this sample class to demonstrate how to read a single point of the Automated Logic WebCTRL building automation system (BAS). At the time, I was one of maybe three developers building web apps with the WebCTRL SDK.
 
-If memory serves, this would have been compatible with WebCTRL versions 4.1SP1, 5.2, 5.5, and 6.0 (the versions that supported .war or .addon apps, up until the time I left ALC).
+If memory serves, this would have been compatible with WebCTRL versions 4.1SP1, 5.2, 5.5, and 6.0 (the versions that supported .war or .addon apps, up until the time I left ALC). The class reads in an enthalpy point from the single outside air conditions program, and writes it to console.
 
 In that time, I used this example to build a walkthrough guide for others in the company to start building their own web apps as well. Projects I built using the SDK include:
 
